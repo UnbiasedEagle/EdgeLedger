@@ -1,0 +1,51 @@
+#navbar {
+    flex-direction: column;
+    text-align: center;
+}
+
+#navbar ul {
+    margin: 1.2rem auto;
+}
+
+.showcase-content {
+    padding: 0 1rem;
+}
+
+#showcase .showcase-content h1 {
+    font-size: 2.2rem;
+}
+
+.items {
+    flex-direction: column;
+}
+
+.item {
+    display: flex;
+    padding: 1.5rem;
+}
+
+.item div {
+    text-align: left;
+}
+
+.item i {
+    align-self: center;
+    margin-right: 2rem;
+}
+
+#who .who-items .team-img {
+    display: none;
+}
+
+#clients .clients .client img {
+    height: 60px;
+    width: 60px;
+}
+
+.last {
+    display: none;
+}
+
+.map {
+    display: none;
+}
